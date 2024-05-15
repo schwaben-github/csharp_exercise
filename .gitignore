@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,windows,dotnetcore
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,visualstudiocode,windows,dotnetcore
 
+# SQL Server files
+*.ldf
+
 ### DotnetCore ###
 # .NET Core build folders
 bin/
