@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{1650B530-7650-4F71-A299-0C3359E4AF36}|KnjiznicaApp\\KnjiznicaApp.csproj|c:\\roxoft_exercise\\roxoft_exercise\\knjiznicaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1650B530-7650-4F71-A299-0C3359E4AF36}|KnjiznicaApp\\KnjiznicaApp.csproj|solutionrelative:knjiznicaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}|DAL\\DAL.csproj|c:\\roxoft_exercise\\roxoft_exercise\\dal\\dbmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}|DAL\\DAL.csproj|solutionrelative:dal\\dbmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}|DAL\\DAL.csproj|c:\\roxoft_exercise\\roxoft_exercise\\dal\\models\\\u010Dlanovi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}|DAL\\DAL.csproj|solutionrelative:dal\\models\\\u010Dlanovi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\roxoft_exercise\\roxoft_exercise\\DAL\\Models\\KnjiznicaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Models\\KnjiznicaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}|DAL\\DAL.csproj|c:\\roxoft_exercise\\roxoft_exercise\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\Models\\KnjiznicaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KnjiznicaApp\\Models\\KnjiznicaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}|DAL\\DAL.csproj|c:\\roxoft_exercise\\roxoft_exercise\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u010Clanovi.cs",
+              "DocumentMoniker": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\Models\\\u010Clanovi.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\\u010Clanovi.cs",
+              "ToolTip": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\Models\\\u010Clanovi.cs",
+              "RelativeToolTip": "DAL\\Models\\\u010Clanovi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:27:13.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbMethods.cs",
+              "DocumentMoniker": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\DbMethods.cs",
+              "RelativeDocumentMoniker": "DAL\\DbMethods.cs",
+              "ToolTip": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\DbMethods.cs",
+              "RelativeToolTip": "DAL\\DbMethods.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAhwC0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:26:39.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KnjiznicaContext.cs",
+              "DocumentMoniker": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\Models\\KnjiznicaContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\KnjiznicaContext.cs",
+              "ToolTip": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\Models\\KnjiznicaContext.cs",
+              "RelativeToolTip": "DAL\\Models\\KnjiznicaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:23:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KnjiznicaContext.cs",
+              "DocumentMoniker": "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\Models\\KnjiznicaContext.cs",
+              "RelativeDocumentMoniker": "KnjiznicaApp\\Models\\KnjiznicaContext.cs",
+              "ToolTip": "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\Models\\KnjiznicaContext.cs",
+              "RelativeToolTip": "KnjiznicaApp\\Models\\KnjiznicaContext.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:23:19.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T18:17:09.378Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:16:44.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +130,7 @@
               "RelativeDocumentMoniker": "KnjiznicaApp\\Program.cs",
               "ToolTip": "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\Program.cs",
               "RelativeToolTip": "KnjiznicaApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T18:07:39.513Z",
               "EditorCaption": ""

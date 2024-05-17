@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using DAL;
+
+DbMethods.AddClan("Pero", "Perić", 1);
+var clanovi = DbMethods.GetClanovi();
+
+foreach (var clan in clanovi)
+{
+    Console.WriteLine(clan.Ime + " " + clan.Prezime);
+}

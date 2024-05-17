@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnjiznicaApp", "KnjiznicaApp\KnjiznicaApp.csproj", "{1650B530-7650-4F71-A299-0C3359E4AF36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnjiznicaApp", "KnjiznicaApp\KnjiznicaApp.csproj", "{1650B530-7650-4F71-A299-0C3359E4AF36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1650B530-7650-4F71-A299-0C3359E4AF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1650B530-7650-4F71-A299-0C3359E4AF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1650B530-7650-4F71-A299-0C3359E4AF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD2C695-5D53-4D6C-A6C3-C81D0D61EB9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

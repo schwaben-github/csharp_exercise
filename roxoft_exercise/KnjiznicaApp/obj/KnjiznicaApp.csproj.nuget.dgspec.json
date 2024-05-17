@@ -4,14 +4,14 @@
     "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\KnjiznicaApp.csproj": {}
   },
   "projects": {
-    "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\KnjiznicaApp.csproj": {
+    "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\KnjiznicaApp.csproj",
-        "projectName": "KnjiznicaApp",
-        "projectPath": "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\KnjiznicaApp.csproj",
+        "projectUniqueName": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\A47151139\\.nuget\\packages\\",
-        "outputPath": "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\obj\\",
+        "outputPath": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A47151139\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,7 +72,83 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\KnjiznicaApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\KnjiznicaApp.csproj",
+        "projectName": "KnjiznicaApp",
+        "projectPath": "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\KnjiznicaApp.csproj",
+        "packagesPath": "C:\\Users\\A47151139\\.nuget\\packages\\",
+        "outputPath": "C:\\roxoft_exercise\\roxoft_exercise\\KnjiznicaApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A47151139\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\roxoft_exercise\\roxoft_exercise\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

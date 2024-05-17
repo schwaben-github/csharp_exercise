@@ -1,0 +1,14 @@
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+Mixed mode
+Express verzija
+
+https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+
+username: sa
+password: sql
+
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+Scaffold-DbContext "Server= BE2CG976\SQLEXPRESS;Database= Knjiznica;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -NoPluralize
