@@ -15,6 +15,9 @@ namespace SeleniumTest
             // Navigate to URL
             driver.Navigate().GoToUrl("https://www.google.com/");
             Thread.Sleep(2000);
+            // Maximize the browser window
+            driver.Manage().Window.Maximize();
+            Thread.Sleep(5000);
 
             // Find the element that's name attribute is q (Google Search Box)
             IWebElement element = driver.FindElement(By.Name("q"));
@@ -31,8 +34,9 @@ namespace SeleniumTest
             Thread.Sleep(10000);
 
             // Close the browser
-            driver.Close();
-            Console.WriteLine("Test case closed!");
+            // Optionally, it can be closed by the test case
+            /*driver.Close();
+            Console.WriteLine("Test case closed!");*/
         }
     }
 }
