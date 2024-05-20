@@ -20,6 +20,8 @@
   - Selenium with C# Tutorial: 
   Tutorial on https://www.javatpoint.com/selenium-csharp using: ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)  :white_check_mark:
 
+![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/Selenium_FB_Test_Execution.png)
+
 
 
 ## Project Status
