@@ -8,11 +8,11 @@ namespace SeleniumTest
         static void Main(string[] args)
         {
             // Create a new instance of the Chrome driver
+            Console.WriteLine("Test case started!");
             IWebDriver driver = new ChromeDriver();
-            Thread.Sleep(2000);
+            Thread.Sleep(5000);
 
             // Navigate to URL
-            Console.WriteLine("Test case started!");
             driver.Navigate().GoToUrl("https://www.google.com/");
             Thread.Sleep(2000);
 
@@ -28,7 +28,7 @@ namespace SeleniumTest
 
             // Click the Search button
             element1.Click();
-            Thread.Sleep(3000);
+            Thread.Sleep(10000);
 
             // Close the browser
             driver.Close();
