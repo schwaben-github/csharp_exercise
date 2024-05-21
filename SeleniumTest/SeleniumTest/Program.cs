@@ -8,12 +8,13 @@ namespace SeleniumTest
         static void Main(string[] args)
         {
             // Create a new instance of the Chrome driver
-            Console.WriteLine("Test case started!");
+            Console.WriteLine("Test case started! \n");
             IWebDriver driver = new ChromeDriver();
             Thread.Sleep(5000);
 
             // Navigate to URL
             driver.Navigate().GoToUrl("https://www.google.com/");
+            Console.WriteLine("\n Opened URL \n");
             Thread.Sleep(2000);
             // Maximize the browser window
             driver.Manage().Window.Maximize();
@@ -24,19 +25,22 @@ namespace SeleniumTest
 
             // Type something in the search box
             element.SendKeys("blinkenlights wikipedia");
+            Console.WriteLine("Entered text \n");
             Thread.Sleep(2000);
 
             // Identify the Google Search button
             IWebElement element1 = driver.FindElement(By.Name("btnK"));
+            
 
             // Click the Search button
             element1.Click();
+            Console.WriteLine("Button found and clicked \n");
             Thread.Sleep(10000);
 
             // Close the browser
             // Optionally, it can be closed by the test case
-            /*driver.Close();
-            Console.WriteLine("Test case closed!");*/
+            driver.Close();
+            Console.WriteLine("Test case closed!");
         }
     }
 }

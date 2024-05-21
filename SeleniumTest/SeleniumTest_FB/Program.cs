@@ -8,12 +8,13 @@ partial class Test
 {
     // Create a new instance of the Chrome driver
     IWebDriver driver = new ChromeDriver();
-
+    
     [SetUp]
     public void Initialize()
     {
         // Navigate to URL
         driver.Navigate().GoToUrl("https://www.facebook.com/");
+        Console.WriteLine("Opened URL \n");
         Thread.Sleep(5000);
         // Maximize the browser window
         driver.Manage().Window.Maximize();
@@ -34,14 +35,14 @@ partial class Test
         IWebElement element1 = driver.FindElement(By.Name("pass"));
         //enter the password value  
         element1.SendKeys("#k5Gpt5qa3");
-        Console.Write("password is entered");
+        Console.Write("password is entered \n");
         Thread.Sleep(5000);
 
         // Click on the Log in button
         IWebElement element2 = driver.FindElement(By.Name("login"));
         element2.Click();
         Thread.Sleep(5000);
-        Console.Write("login button is clicked");
+        Console.Write("login button is clicked \n");
     }
 
     [TearDown]
@@ -49,5 +50,6 @@ partial class Test
     {
         // Close the browser
         driver.Close();
+        Console.WriteLine("Test case closed!");
     }
 }
