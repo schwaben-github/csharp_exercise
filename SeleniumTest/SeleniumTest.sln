@@ -5,11 +5,13 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumTest", "SeleniumTest\SeleniumTest.csproj", "{D13EE71A-1526-4901-8E77-AC93464D0E22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTest_FB", "SeleniumTest_FB\SeleniumTest_FB.csproj", "{21B8109A-8B39-418C-B17A-A985E0FFBD2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumTest_FB", "SeleniumTest_FB\SeleniumTest_FB.csproj", "{21B8109A-8B39-418C-B17A-A985E0FFBD2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteAutomation1", "ExecuteAutomation1\ExecuteAutomation1.csproj", "{7E960C2B-FA05-48D4-A4E1-3E6B156561BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecuteAutomation1", "ExecuteAutomation1\ExecuteAutomation1.csproj", "{7E960C2B-FA05-48D4-A4E1-3E6B156561BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteAutomation", "ExecuteAutomation\ExecuteAutomation.csproj", "{9F2A4EBB-090C-45C7-A65C-9EC455911336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecuteAutomation", "ExecuteAutomation\ExecuteAutomation.csproj", "{9F2A4EBB-090C-45C7-A65C-9EC455911336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteAutomation2", "ExecuteAutomation2\ExecuteAutomation2.csproj", "{C55C764F-B5AD-4CD9-8B1E-B89D5E5857B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9F2A4EBB-090C-45C7-A65C-9EC455911336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F2A4EBB-090C-45C7-A65C-9EC455911336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F2A4EBB-090C-45C7-A65C-9EC455911336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55C764F-B5AD-4CD9-8B1E-B89D5E5857B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55C764F-B5AD-4CD9-8B1E-B89D5E5857B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55C764F-B5AD-4CD9-8B1E-B89D5E5857B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55C764F-B5AD-4CD9-8B1E-B89D5E5857B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
