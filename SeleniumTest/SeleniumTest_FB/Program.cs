@@ -34,7 +34,7 @@ partial class Test
         // Identify the password text box
         IWebElement element1 = driver.FindElement(By.Name("pass"));
         //enter the password value  
-        element1.SendKeys("#k5Gpt5qa3");
+        element1.SendKeys("*********");
         Console.Write("password is entered \n");
         Thread.Sleep(5000);
 
