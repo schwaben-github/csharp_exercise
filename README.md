@@ -39,6 +39,10 @@
 
     - Refactoring custom methods of control libraries :
 
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation3_refactoring_custom_methods_TestExecution.png)
+
+    - Page Object Model in Selenium
+   
     ... Work in progress ...
 
 ---
