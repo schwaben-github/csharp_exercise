@@ -15,10 +15,10 @@ partial class Test
         // Navigate to URL
         driver.Navigate().GoToUrl("https://www.facebook.com/");
         Console.WriteLine("Opened URL \n");
-        Thread.Sleep(5000);
+        Thread.Sleep(1000);
         // Maximize the browser window
         driver.Manage().Window.Maximize();
-        Thread.Sleep(5000);
+        Thread.Sleep(1000);
     }
 
     [Test]
@@ -28,7 +28,7 @@ partial class Test
         IWebElement element = driver.FindElement(By.Id("email"));
         // Enter the username value  
         element.SendKeys("tibor.weigand@gmail.com");
-        Thread.Sleep(5000);
+        Thread.Sleep(1000);
         Console.Write("username value is entered \n");
 
         // Identify the password text box
@@ -36,12 +36,12 @@ partial class Test
         //enter the password value  
         element1.SendKeys("*********");
         Console.Write("password is entered \n");
-        Thread.Sleep(5000);
+        Thread.Sleep(1000);
 
         // Click on the Log in button
         IWebElement element2 = driver.FindElement(By.Name("login"));
         element2.Click();
-        Thread.Sleep(5000);
+        Thread.Sleep(1000);
         Console.Write("login button is clicked \n");
     }
 
