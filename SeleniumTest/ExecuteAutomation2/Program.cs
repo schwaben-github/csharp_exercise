@@ -25,6 +25,7 @@ public class Program
         Thread.Sleep(1000);
         // Maximize the browser window
         driver.Manage().Window.Maximize();
+        // Since I need to input the data manually, I will increase the sleep time
         Thread.Sleep(15000);
     }
 

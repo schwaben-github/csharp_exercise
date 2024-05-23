@@ -22,10 +22,10 @@ public class Program
         // Navigate to URL
         driver.Navigate().GoToUrl("https://testpages.eviltester.com/styled/validation/input-validation.html");
         Console.WriteLine("\n Opened URL \n");
-        Thread.Sleep(5000);
+        Thread.Sleep(1000);
         // Maximize the browser window
         driver.Manage().Window.Maximize();
-        Thread.Sleep(5000);
+        Thread.Sleep(1000);
     }
 
     [Test]
@@ -34,32 +34,32 @@ public class Program
         // First name
         SeleniumSetMethod.EnterText(driver, "firstname", "Tibor", "id");
         Console.WriteLine("Entered first name \n");
-        Thread.Sleep(2000);
+        Thread.Sleep(1000);
 
         // Last name
         SeleniumSetMethod.EnterText(driver, "surname", "Weigand", "id");
         Console.WriteLine("Entered last name \n");
-        Thread.Sleep(2000);
+        Thread.Sleep(1000);
 
         // Age
         SeleniumSetMethod.EnterText(driver, "age", "52", "id");
         Console.WriteLine("Entered age \n");
-        Thread.Sleep(2000);
+        Thread.Sleep(1000);
 
         // Country dropdown
         SeleniumSetMethod.SelectDropDown(driver, "country", "Croatia", "id");
         Console.WriteLine("Opened dropdown and country chosen \n");
-        Thread.Sleep(2000);
+        Thread.Sleep(1000);
 
         // Notes
         SeleniumSetMethod.EnterText(driver, "notes", "This is a test", "id");
         Console.WriteLine("Entered a note \n");
-        Thread.Sleep(2000);
+        Thread.Sleep(1000);
 
         // Submit button
         SeleniumSetMethod.Click(driver, "submitbutton", "id");
         Console.WriteLine("Submit button clicked \n");
-        Thread.Sleep(2000);
+        Thread.Sleep(1000);
     }
 
     [TearDown]
