@@ -1,6 +1,6 @@
 ﻿// Refactoring Custom Methods Revisited
 // Strongly typed properties
-// The testsite changed in the meantime, so I adjusted the code to CssSelector instead of Id
+// The testsite changed in the meantime, so I adjusted the code to use CssSelector instead of Id
 
 using System;
 using System.Threading;
