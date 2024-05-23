@@ -4,6 +4,8 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
+// In order to follow the execution in the browser, there are sleep commands added!
+
 partial class Test
 {
     // Create a new instance of the Chrome driver
