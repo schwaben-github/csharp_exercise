@@ -15,10 +15,10 @@ public class Program
         // Navigate to URL
         driver.Navigate().GoToUrl("https://www.google.com/");
         Console.WriteLine("\n Opened URL \n");
-        Thread.Sleep(5000);
+        Thread.Sleep(1000);
         // Maximize the browser window
         driver.Manage().Window.Maximize();
-        Thread.Sleep(5000);
+        Thread.Sleep(1000);
     }
 
     [Test]
@@ -30,7 +30,7 @@ public class Program
         // Type something in the search box
         element.SendKeys("blinkenlights wikipedia");
         Console.WriteLine("Entered text \n");
-        Thread.Sleep(2000);
+        Thread.Sleep(1000);
     }
 
     [TearDown]
