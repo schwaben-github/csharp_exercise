@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,5 +22,19 @@ namespace ExecuteAutomation2
             }
             else return String.Empty;
         }
+
+        // Getting text from drop down list works for me with the above method!
+        /*public static string GetTextFromDDL(IWebDriver driver, string element, string elementtype)
+        {
+            if (elementtype == "id")
+            {
+                return new SelectElement(driver.FindElement(By.Id(element))).AllSelectedOptions.SingleOrDefault().Text;
+            }
+            if (elementtype == "name")
+            {
+                return new SelectElement(driver.FindElement(By.Name(element))).AllSelectedOptions.SingleOrDefault().Text;
+            }
+            else return String.Empty;
+        }*/
     }
 }

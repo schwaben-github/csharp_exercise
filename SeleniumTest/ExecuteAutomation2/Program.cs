@@ -25,6 +25,7 @@ public class Program
         Thread.Sleep(1000);
         // Maximize the browser window
         driver.Manage().Window.Maximize();
+        // Manully enter the data on the form
         Thread.Sleep(15000);
     }
 
