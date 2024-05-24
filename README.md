@@ -37,12 +37,20 @@
 
     ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation2_get_methods_Test_Execution.png)
 
-    - Refactoring custom methods of control libraries :
+    - Refactoring custom methods of control libraries :    :white_check_mark:
 
     ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation3_refactoring_custom_methods_TestExecution.png)
 
-    - Page Object Model in Selenium
+    - Page Object Model in Selenium :    :white_check_mark:
    
-    ... Work in progress ...
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation4_PageObjectModel_TestExecution.jpeg)
+
+    - Page Navigation of Page Object Model in Selenium :    :white_check_mark:
+   
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation5_PageNavigation_TestExecution.png)
+
+    - Customizing custom library methods :
+   
+    ... work in progress...
 
 ---
