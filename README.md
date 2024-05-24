@@ -47,7 +47,7 @@
 
     - Page Navigation of Page Object Model in Selenium :    :white_check_mark:
    
-    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/blob/main/ExecuteAutomation5_PageNavigation_TestExecution.png)
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation5_PageNavigation_TestExecution.png)
 
     - Customizing custom library methods :
    
