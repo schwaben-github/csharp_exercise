@@ -34,7 +34,7 @@ public class Program
     [Test]
     public void ExecuteTest()
     {
-        ExcelLib.PopulateInCollection(@"C:\Data.xlsx");
+        ExcelLib.PopulateInCollection(@"C:\roxoft_exercise\Data.xlsx");
 
         // Click the link to the input form
         LoginPageObject pageLogin = new LoginPageObject();
