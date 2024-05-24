@@ -49,8 +49,16 @@
    
     ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation5_PageNavigation_TestExecution.png)
 
-    - Customizing custom library methods :
+    - Customizing custom library methods :    :white_check_mark:
    
-    ... work in progress...
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation6_TweakCustomLibraryMethods_TestExecution.png)
 
+    - Extension methods for custom methods :    :white_check_mark:
+   
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation7_ExtensionCustomMethods_TestExecution.png)
+
+    - Data driven testing :    :x:
+
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation8_DataDrivenTesting_TestExecution.png)
+    
 ---
