@@ -60,5 +60,7 @@
     - Data driven testing :    :x:
 
     ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation8_DataDrivenTesting_TestExecution.png)
+
+    The test is failing since 'IsFirstRowAsColumnNames' is deprecated in 'IExcelDataReader' interface. Therefore it is not possible to set the First Row as Column Name!
     
 ---
