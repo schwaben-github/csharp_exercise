@@ -1,6 +1,6 @@
 # C# Exercise
 
-![Static Badge](https://img.shields.io/badge/Project%20Status-2%20%2F%206-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/Project%20Status-3%20%2F%206-blue?style=plastic)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -62,5 +62,13 @@
     ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/ExecuteAutomation8_DataDrivenTesting_TestExecution.png)
 
     The test is failing since 'IsFirstRowAsColumnNames' is deprecated in 'IExcelDataReader' interface. Therefore it is not possible to set the First Row as Column Name!
+
+  - Create Test Automation Documentation for [Swag Labs Test Page](https://www.saucedemo.com/)
+
+    - Test Automation Plan for WebApp
+   
+    - Appropriate Test Cases
+   
+    - Console App: work in progress
     
 ---
