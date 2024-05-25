@@ -1,6 +1,6 @@
 # C# Exercise
 
-![Static Badge](https://img.shields.io/badge/Project%20Status-3%20%2F%206-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/Project%20Status-4%20%2F%206-blue?style=plastic)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -65,10 +65,24 @@
 
   - Create Test Automation Documentation for [Swag Labs Test Page](https://www.saucedemo.com/)
 
-    - Test Automation Plan for WebApp
+    - Test Automation Plan for WebApp    :white_check_mark:
    
-    - Appropriate Test Cases
+    - Appropriate Test Cases    :white_check_mark:
    
-    - Console App: work in progress
+    - Console App: work in progress    :white_check_mark:
+
+    - Test Results:
+   
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/SwagLabs_1_TestAutomationApp.png)
+
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/SwagLabs_2_VerfyErrorMessageForInvalidCredentials.png)
+
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/SwagLabs_3_VerifyLoginButton.png)
+
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/SwagLabs_4_VerifyLoginScreenDisplay.png)
+
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/SwagLabs_5_VerifyUsernameAndPasswordTextboxes.png)
+
+    ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/SwagLabs_6_VerifyWebShopTestPageLoadedAfterLogin.png)
     
 ---
