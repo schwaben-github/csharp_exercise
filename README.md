@@ -84,5 +84,13 @@
     ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/SwagLabs_5_VerifyUsernameAndPasswordTextboxes.png)
 
     ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/SwagLabs_6_VerifyWebShopTestPageLoadedAfterLogin.png)
-    
+
+- Create the first SpecFlow project and automate a simple Gherkin specification
+
+  - Check the [Living Documentation .html file](https://github.com/schwaben-github/csharp_exercise/blob/main/Krastavac/LivingDoc.html)    :white_check_mark:
+
+  - Advanced tutorials : ... Work in progress ...
+ 
+  - 
+
 ---
