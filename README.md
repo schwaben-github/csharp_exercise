@@ -69,9 +69,7 @@
 
     - Test Automation Plan for WebApp    :white_check_mark:
    
-    - Appropriate Test Cases    :white_check_mark:
-   
-    - Console App: work in progress    :white_check_mark:
+    - Appropriate Test Cases and the console application   :white_check_mark:
 
     - Test Results:
    
