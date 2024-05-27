@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Project%20Status-4%20%2F%206-blue?style=plastic)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
@@ -15,13 +15,11 @@
 
 ## Test Automation
 
-3. Selenium Automation with C# (Test Results)
-
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+3. Selenium Automation with C# (Test Results)   ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)    :white_check_mark:
 
   - Selenium with C# [Tutorial](https://www.javatpoint.com/selenium-csharp)    :white_check_mark:
 
-![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/Selenium_FB_Test_Execution.png)
+  ![Test Result](https://raw.githubusercontent.com/schwaben-github/csharp_exercise/main/Selenium_FB_Test_Execution.png)
 
   - Execute Automation Tutorial - [YouTube Playlist](https://youtube.com/playlist?list=PL6tu16kXT9PqKSouJUV6sRVgmcKs-VCqo&si=Qd_327cs68kyP8HE)
 
@@ -63,6 +61,10 @@
 
     The test is failing since 'IsFirstRowAsColumnNames' is deprecated in 'IExcelDataReader' interface. Therefore it is not possible to set the First Row as Column Name!
 
+  - Updated Execute Automation Selenium Tutorial - [YouTube Playlist](https://youtube.com/playlist?list=PL6tu16kXT9Pr50Bu96uf9z4rNxMTVTIxm&si=10XlZQ3BbgqImsLd)
+
+    - TBD  :hourglass_flowing_sand: :hourglass_flowing_sand: :hourglass_flowing_sand:
+
   - Create Test Automation Documentation for [Swag Labs Test Page](https://www.saucedemo.com/)
 
     - Test Automation Plan for WebApp    :white_check_mark:
@@ -89,8 +91,24 @@
 
   - Check the [Living Documentation .html file](https://github.com/schwaben-github/csharp_exercise/blob/main/Krastavac/LivingDoc.html)    :white_check_mark:
 
-  - Advanced tutorials : ... Work in progress ...
+  - Advanced tutorials on the [SpecFlow Getting Started Guide](https://docs.specflow.org/projects/getting-started/en/latest/index.html) : TBD  :hourglass_flowing_sand: :hourglass_flowing_sand: :hourglass_flowing_sand:
  
-  - 
+- Implement SpecFlow with BDD Feature definition for [Swag Labs Test Page](https://www.saucedemo.com/)
+
+  - Check the [Living Documentation .html file](https://github.com/schwaben-github/csharp_exercise/blob/main/SwagLabs2/LivingDoc.html)    :white_check_mark:
+
+- Create Test Automation Documentation for an API (chosen one from [List of Free and Open Public APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/))
+
+  - Test automation using Postman ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)    :white_check_mark:
+ 
+  - Wrote a Test plan and Test cases, implemented 2 JS scripts for testing the [Dog CEO API](https://dog.ceo/api/breeds/image/random)    :white_check_mark:
+ 
+    Please check the JSON-Files in the project directory!
+ 
+  - Wrote a Test plan and Test cases, implemented 2 JS scripts for testing the [Genderize.io API](https://api.genderize.io?name=tibor) as a bonus :smile:    :white_check_mark:
+ 
+    Please check the JSON-Files in the project directory!
+
+
 
 ---
