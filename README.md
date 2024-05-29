@@ -1,3 +1,6 @@
+:sparkles: **Update:** There is a new poll open, please use "Discussions" tab! :sparkles:
+
+
 # C# Exercise
 
 ![Static Badge](https://img.shields.io/badge/Project%20Status-6%20%2F%206-blue?style=plastic)
