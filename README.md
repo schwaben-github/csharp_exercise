@@ -66,7 +66,7 @@
 
   - Updated Execute Automation Selenium Tutorial - [YouTube Playlist](https://youtube.com/playlist?list=PL6tu16kXT9Pr50Bu96uf9z4rNxMTVTIxm&si=10XlZQ3BbgqImsLd)
 
-    - TBD  :hourglass_flowing_sand: :hourglass_flowing_sand: :hourglass_flowing_sand:
+    - Work in progress...  :hourglass_flowing_sand:
 
   - Create Test Automation Documentation for [Swag Labs Test Page](https://www.saucedemo.com/)
 
