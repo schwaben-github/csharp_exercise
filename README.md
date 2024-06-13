@@ -1,5 +1,7 @@
-:sparkles: **Update:** There is a new poll open, please use "Discussions" tab! :sparkles:
+> [!TIP]
+> There is a new poll open, please use "Discussions" tab! :sparkles:  
 
+<br>
 
 # C# Exercise
 
